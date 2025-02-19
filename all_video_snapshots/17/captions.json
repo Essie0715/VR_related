@@ -1,0 +1,44 @@
+{
+    "living_room": [
+        {
+            "time_range": "0:50-0:53",
+            "caption": "謝謝您 参观我們的視頻"
+        }
+    ],
+    "bathroom": [
+        {
+            "time_range": "2:11-2:12",
+            "caption": ""
+        }
+    ],
+    "balcony": [
+        {
+            "time_range": "0:38-0:45",
+            "caption": "就是心里最有名的情人岗接对面就是市中心最美最大的商场然后"
+        }
+    ],
+    "kitchen": [
+        {
+            "time_range": "1:34-1:37",
+            "caption": "to the WorldCost Plop Lumiere facilities."
+        }
+    ],
+    "hallway": [
+        {
+            "time_range": "1:02-1:08",
+            "caption": "by soaring double-hide walls of glass that enhance natural light and dramatic CBD."
+        }
+    ],
+    "master_room": [
+        {
+            "time_range": "2:05-2:10",
+            "caption": "You see it? Thank you."
+        }
+    ],
+    "bedroom": [
+        {
+            "time_range": "1:17-1:19",
+            "caption": "the city. There are a lot."
+        }
+    ]
+}

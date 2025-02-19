@@ -1,0 +1,44 @@
+{
+    "living_room": [
+        {
+            "time_range": "0:47-1:07",
+            "caption": "This is the main living room, a lot of natural light coming in through here as you can see. And if you open the balcony doors through this starting look, there's a really nice breeze that comes in through here. It's modest, but still big enough to fit a whole family and I'm sure she celebrated a lot of master's in here."
+        }
+    ],
+    "bathroom": [
+        {
+            "time_range": "1:58-2:01",
+            "caption": ""
+        }
+    ],
+    "balcony": [
+        {
+            "time_range": "1:45-1:55",
+            "caption": "to balconies which is pretty hard to come by and the views are actually quite lovely. You can see parts of Brisbane City from here. I can see why she's held onto it for so long. It's a"
+        }
+    ],
+    "kitchen": [
+        {
+            "time_range": "1:13-1:20",
+            "caption": "should have all her musician friends over drinking homebrewed coffee and enjoying dinner parties out here in the courtyard."
+        }
+    ],
+    "hallway": [
+        {
+            "time_range": "0:44-0:46",
+            "caption": "month's day here too."
+        }
+    ],
+    "master_room": [
+        {
+            "time_range": "1:56-1:57",
+            "caption": ""
+        }
+    ],
+    "bedroom": [
+        {
+            "time_range": "1:43-1:47",
+            "caption": "Her bedrooms all have access to balconies, which is pretty hard to come."
+        }
+    ]
+}

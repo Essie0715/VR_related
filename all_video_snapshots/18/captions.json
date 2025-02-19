@@ -1,0 +1,38 @@
+{
+    "living_room": [
+        {
+            "time_range": "1:16-1:24",
+            "caption": "base and seclusion with a three level layout that embraces contemporary family living with high end finishes."
+        }
+    ],
+    "bathroom": [
+        {
+            "time_range": "1:44-1:45",
+            "caption": "built in Wadj"
+        }
+    ],
+    "balcony": [
+        {
+            "time_range": "0:47-0:52",
+            "caption": "非常有名的斯利學校功利學校最精彩的這個豪宅呢"
+        }
+    ],
+    "kitchen": [
+        {
+            "time_range": "1:32-1:40",
+            "caption": "with quality melee appliances, a walking pantry and breakfast bar. 4 Apple"
+        }
+    ],
+    "hallway": [
+        {
+            "time_range": "1:48-1:53",
+            "caption": "the living level. The lower level includes a spacious rumpers room or a"
+        }
+    ],
+    "master_room": [
+        {
+            "time_range": "1:42-1:44",
+            "caption": "bathroom and customize."
+        }
+    ]
+}

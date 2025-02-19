@@ -1,0 +1,38 @@
+{
+    "living_room": [
+        {
+            "time_range": "0:38-0:42",
+            "caption": "and casual events as well as a dedicated home office."
+        }
+    ],
+    "bathroom": [
+        {
+            "time_range": "0:54-0:55",
+            "caption": "and each"
+        }
+    ],
+    "kitchen": [
+        {
+            "time_range": "0:43-0:46",
+            "caption": "with high end inclusions bench."
+        }
+    ],
+    "hallway": [
+        {
+            "time_range": "0:47-0:51",
+            "caption": "And thank you."
+        }
+    ],
+    "master_room": [
+        {
+            "time_range": "0:58-1:02",
+            "caption": "of a master retreat that has its own walking dressing room and"
+        }
+    ],
+    "bedroom": [
+        {
+            "time_range": "0:52-0:54",
+            "caption": "are all located in the upper level."
+        }
+    ]
+}
